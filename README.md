@@ -40,9 +40,9 @@ Pour les capteurs Zwaves il est important d'utilisé la clé Z-Stick en plus de 
 
    (2) Ensuite il faut le connecter à notre réseau de notre clé z-wave
    
-    (a) on reprend notre clé Z-Stick et on appuie une fois sur le bouton action (la clé vas alors clignoter normalement)
-    (b) alors que le capteur est encore en train de faire un fondu de couleur avec la led appuyez une fois sur le bouton action (il vas alors clignoter rapidement en vert)
-    (c) si le capteur s'est figé 1sc en vert alors c'est bon, sinon si il y a eu du rouge recommencez.
+      (a) on reprend notre clé Z-Stick et on appuie une fois sur le bouton action (la clé vas alors clignoter normalement)
+      (b) alors que le capteur est encore en train de faire un fondu de couleur avec la led appuyez une fois sur le bouton action (il vas alors clignoter rapidement en vert)
+      (c) si le capteur s'est figé 1sc en vert alors c'est bon, sinon si il y a eu du rouge recommencez.
 
 
 - PsmSlimMultiSensor
