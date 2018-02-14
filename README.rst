@@ -12,7 +12,7 @@ BLE
    - Proximity 70m (motion, power, batterie, accéléromètre, température)
    - Location 200m (motion, power, batterie, accéléromètre, température, luminosité, baromètre, magnétomètre)
    
-   Pour activer un nouveau capteur estimote voir la doc lié a cet effet : estimote-doc
+   Pour activer un nouveau capteur estimote voir la doc lié à cet effet : estimote-doc
 
 
 - Yunzi sensoro
@@ -43,10 +43,12 @@ Pour les capteurs Zwaves il est important d'utilisé la clé Z-Stick en plus de 
       a) on reprend notre clé Z-Stick et on appuie une fois sur le bouton action (la clé vas alors clignoter normalement)
       b) alors que le capteur est encore en train de faire un fondu de couleur avec la led appuyez une fois sur le bouton action (il vas alors clignoter rapidement en vert)
       c) si le capteur s'est figé 1sc en vert alors c'est bon, sinon si il y a eu du rouge recommencez.
-
+    
+    A faire attention: à chaque fois que l'on change un capteur MultiSensor6 de réseau z-wave, son ip change.
 
 - PsmSlimMultiSensor
    - 70m (doorOpening, températureF, luminosité)
    
-   Pour activer ce capteur il faut que la clé Z-Stick soit branché sur la raspberry
+   Pour activer ce capteur il faut que la clé Z-Stick soit branché sur la raspberry.
+   
    Ce capteur ne peut être lié que à une clé à la fois
