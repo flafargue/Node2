@@ -6,9 +6,9 @@ BLE
 =====
 Estimote
 ----------
--pel
--leo
--frr
+- pel
+- leo
+- frr
 
 
 Yunzi
