@@ -7,7 +7,7 @@ BLE
 Estimote
 ==
 Yunzi
-==
+=
 
 
 Z-Wave
