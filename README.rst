@@ -31,14 +31,14 @@ Pour les capteurs Zwaves il est important d'utilisé la clé Z-Stick en plus de 
    
    Pour connecter un capteur MultiSensor6 il y a 2 grandes étapes
    
-   1) tout d'abord il faut être sur que le capteur n'est connecté à aucun autre réseau z-wave
+   (1) tout d'abord il faut être sur que le capteur n'est connecté à aucun autre réseau z-wave
    
       a) débrancher la clé Z-Stick de la raspberry 
       b) appuyer 3 seconde sur le bouton action de la clé Z-Stick (la clé vas alors clignoter en bleu rapidement)
       c) appuyer sur le bouton action du  (situé sous le capteur)
       d) le MultiSensor6 vas alors faire un fondu de couleur avec la led pour dire qu'il est bien déconnecté
 
-   2) Ensuite il faut le connecter à notre réseau de notre clé z-wave
+   (2) Ensuite il faut le connecter à notre réseau de notre clé z-wave
    
       a) on reprend notre clé Z-Stick et on appuie une fois sur le bouton action (la clé vas alors clignoter normalement)
       b) alors que le capteur est encore en train de faire un fondu de couleur avec la led appuyez une fois sur le bouton action (il vas alors clignoter rapidement en vert)
