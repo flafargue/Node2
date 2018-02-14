@@ -4,16 +4,18 @@ Documentation sensors
 
 BLE
 =====
-Estimote
-----------
-- pel
-- leo
-- frr
 
+- Estimote
+   - Sticker
+   - Proximity
+   - Location
+   
 
-Yunzi
-----------
+- Yunzi
 
 
 Z-Wave
 ======
+
+- MultiSensor6
+- PsmSlimMultiSensor
